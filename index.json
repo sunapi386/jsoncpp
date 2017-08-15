@@ -1,8 +1,8 @@
 {
   "date": "Thu, 10 Aug 2017 23:53:08 GMT",
-  "name": "http://10.10.50.109/vwd/dataset/user/jsun@autox.ai/TopViewMaps/96.246017_645.957214_557.596497_922.201355.jpg/annotation/index.json",
+  "name": "http://10.10.50.109/vwd/dataset/user/jsun@example.com/TopViewMaps/96.246017_645.957214_557.596497_922.201355.jpg/annotation/index.json",
   "fileList": [
-    "http://10.10.50.109/vwd/dataset/user/jsun@autox.ai/TopViewMaps/96.246017_645.957214_557.596497_922.201355.jpg/image/96.246017_645.957214_557.596497_922.201355.jpg"
+    "http://10.10.50.109/vwd/dataset/user/jsun@example.com/TopViewMaps/96.246017_645.957214_557.596497_922.201355.jpg/image/96.246017_645.957214_557.596497_922.201355.jpg"
   ],
   "objects": [
     {
@@ -39,7 +39,7 @@
           ],
           "close": true,
           "object": 0,
-          "annotator": "jsun@autox.ai"
+          "annotator": "jsun@example.com"
         }
       ]
     }
